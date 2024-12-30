@@ -1,0 +1,30 @@
+.download-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .download-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .download-container p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .download-container a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-container a:hover {
+    background-color: #0056b3;
+  }
+  

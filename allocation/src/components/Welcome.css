@@ -1,0 +1,30 @@
+
+body {
+    padding: 0;
+    background-image: url('../assets/images/college-logo.jpeg');
+    background-size: 300px;
+    background-position: center;
+    background-repeat:no-repeat;
+    height: 110vh;
+
+  }
+  
+
+  .welcome-box {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+  }
+  
+
+.welcome-box h2 {
+  color: #333;
+}
+
+.welcome-box p {
+  color: #666;
+}
+
+  
